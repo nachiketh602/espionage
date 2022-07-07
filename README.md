@@ -1,2 +1,2 @@
-# secret_agent
-To find and pass a secret message to a secret agent among many people.
+# Espionage
+Simple shell script program which can be used to send a secret information to special target present among many people.
